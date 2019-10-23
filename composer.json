@@ -1,0 +1,13 @@
+{
+    "name": "guillaume/projet9",
+    "type": "project",
+    "authors": [
+        {
+            "name": "guillaume",
+            "email": "guillaumearnaud38@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
